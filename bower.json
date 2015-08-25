@@ -2,7 +2,7 @@
     "name": "slick-carousel",
     "main": ["slick/slick.min.js", "slick/slick.css", "slick/slick-theme.css", "slick/fonts/*"],
     "version": "1.5.5",
-    "homepage": "https://github.com/kenwheeler/slick",
+    "homepage": "https://github.com/rsemenyshyn/kenwheeler_slick_1_5_5",
     "authors": [
         "Ken Wheeler <ken_wheeler@me.com>"
     ],
